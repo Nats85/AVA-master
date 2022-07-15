@@ -1,0 +1,6 @@
+make: Entering directory `/Users/nataliasanchez/Downloads/prueba-AVA-master'
+component install
+ 
+component build --verbose --out . --name assets
+make: Leaving directory `/Users/nataliasanchez/Downloads/prueba-AVA-master'
+ 
